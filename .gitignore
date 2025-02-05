@@ -1,6 +1,6 @@
 data/
 embvenv
 .env
-
+#all scripts
 scripts/__pycache__
 EthMedicalBusiness_DBT/profiles.yml
